@@ -41,9 +41,10 @@ npm install
 
 ## Demo
 
-[Deployed App in Heroku](https://sleepy-reaches-91541.herokuapp.com/)
+[Deployed App in Heroku](
 
 ![Burger](public/assets/img/app.png)
+![eat_dat_burger](public/assets/img/Eataburger.gif)
 
 ## License
 
@@ -61,4 +62,4 @@ The following technologies and tools were used:
 
 ## Questions
 
-For any other questions, please send me an email at: isasanyang1986@yahoo.co.uk
+For any other questions, please send me an email at: tomlin.steph@gmail.com

@@ -25,7 +25,7 @@ The app stores all the added burgers to the database.
 To run the application in your local machine, first clone the repository with the following command.
 
 ```
-git clone git@github.com:ayshasanyang/Burger.git
+git clone git@github.com:stephtomlin86/Burger.git
 ```
 
 Next, install the app dependencies.
